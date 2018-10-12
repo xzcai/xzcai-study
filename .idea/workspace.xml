@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7b790a2-1c64-459f-af2d-7288b87e4ec9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xzcai-study-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,7 +57,7 @@
           <entry key="properties" value="8" />
           <entry key="sql" value="2" />
           <entry key="wechat_user_feedback" value="1" />
-          <entry key="xml" value="27" />
+          <entry key="xml" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -70,7 +68,7 @@
           <entry key="Properties" value="8" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="1" />
-          <entry key="XML" value="27" />
+          <entry key="XML" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -131,8 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/TypeEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="114">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -142,15 +140,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="344">
               <caret line="61" selection-start-line="61" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/config/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -188,15 +177,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="n#properties#0;n#project#0;n#!!top" />
                 <element signature="n#build#0;n#project#0;n#!!top" />
                 <element signature="n#pluginManagement#0;n#build#0;n#project#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xzcai-study-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding>
+                <element signature="n#dependencies#0;n#project#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -229,7 +230,6 @@
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/UserFeedBackController.java" />
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/XzcaiStudyMainApplication.java" />
         <option value="$PROJECT_DIR$/xzcai-study-biz/pom.xml" />
-        <option value="$PROJECT_DIR$/xzcai-study-web/pom.xml" />
         <option value="$PROJECT_DIR$/xzcai-study-biz/src/main/java/com/xzcai/study/biz/service/UserFeedback.java" />
         <option value="$PROJECT_DIR$/xzcai-study-dal/src/main/resources/mapper/UserFeedback.xml" />
         <option value="$PROJECT_DIR$/xzcai-study-dal/src/main/java/com/xzcai/study/dal/UserFeedbackMapper.java" />
@@ -255,6 +255,7 @@
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/Test.java" />
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/TypeEnum.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xzcai-study-web/pom.xml" />
       </list>
     </option>
   </component>
@@ -305,6 +306,11 @@
               <item name="xzcai-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="xzcai-study" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xzcai-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xzcai-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xzcai-study-web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -321,7 +327,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539339940714" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539340468706" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -407,17 +413,18 @@
       <workItem from="1538280258237" duration="3970000" />
       <workItem from="1538289835642" duration="10843000" />
       <workItem from="1538927956538" duration="3143000" />
-      <workItem from="1539048745607" duration="12916000" />
+      <workItem from="1539048745607" duration="13477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46349000" />
+    <option name="totallyTimeSpent" value="46910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -433,20 +440,20 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291815" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32740214" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.3445826" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.34341636" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2497979" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="5" visible="true" weight="0.17299919" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.17299919" />
       <window_info anchor="right" id="Database" order="6" weight="0.17461601" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -628,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xzcai-study-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-dal/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -786,19 +786,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/TypeEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="114">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="n#properties#0;n#project#0;n#!!top" />
             <element signature="n#build#0;n#project#0;n#!!top" />
             <element signature="n#pluginManagement#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xzcai-study-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
           </folding>
         </state>
       </provider>
