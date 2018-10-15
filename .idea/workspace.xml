@@ -4,41 +4,10 @@
     <list default="true" id="f7b790a2-1c64-459f-af2d-7288b87e4ec9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/classes/com/xzcai/study/biz/service/UserFeedbackService.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/target/classes/com/xzcai/study/biz/service/UserFeedbackService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/classes/com/xzcai/study/biz/service/impl/UserFeedbackServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/target/classes/com/xzcai/study/biz/service/impl/UserFeedbackServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/xzcai-study-biz-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/target/xzcai-study-biz-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/xzcai-study-biz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/xzcai-study-biz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/target/xzcai-study-common-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-common/target/xzcai-study-common-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/xzcai-study-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-common/xzcai-study-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/target/classes/com/xzcai/study/dal/dao/UserFeedbackMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-dal/target/classes/com/xzcai/study/dal/dao/UserFeedbackMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-dal/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/target/xzcai-study-dal-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-dal/target/xzcai-study-dal-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/xzcai-study-dal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-dal/xzcai-study-dal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/classes/com/xzcai/study/pojo/po/UserFeedbackPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/target/classes/com/xzcai/study/pojo/po/UserFeedbackPO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/classes/com/xzcai/study/pojo/vo/RichText.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/target/classes/com/xzcai/study/pojo/vo/RichText.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/classes/com/xzcai/study/pojo/vo/TestRichVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/target/classes/com/xzcai/study/pojo/vo/TestRichVo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/classes/com/xzcai/study/pojo/vo/UserFeedbackSaveVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/target/classes/com/xzcai/study/pojo/vo/UserFeedbackSaveVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/xzcai-study-pojo-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/target/xzcai-study-pojo-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/xzcai-study-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/xzcai-study-pojo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xzcai-study-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/XzcaiStudyMainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/XzcaiStudyMainApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/config/DruidConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/config/DruidConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/config/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/config/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/Test$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/Test$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/TypeEnum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/TypeEnum$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/TypeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/TypeEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/UserFeedbackController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/UserFeedbackController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/xzcai-study-web-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/xzcai-study-web-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/xzcai-study-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/xzcai-study-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,19 +47,19 @@
     <session id="-127070652">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="40" />
-          <entry key="properties" value="8" />
+          <entry key="java" value="44" />
+          <entry key="properties" value="10" />
           <entry key="sql" value="2" />
           <entry key="wechat_user_feedback" value="1" />
           <entry key="xml" value="29" />
@@ -100,8 +69,8 @@
         <counts>
           <entry key="CLASS" value="3" />
           <entry key="Database Element" value="1" />
-          <entry key="JAVA" value="40" />
-          <entry key="Properties" value="8" />
+          <entry key="JAVA" value="44" />
+          <entry key="Properties" value="10" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="29" />
@@ -110,20 +79,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="java" value="1509" />
+          <entry key="java" value="1515" />
           <entry key="properties" value="340" />
           <entry key="sql" value="13" />
           <entry key="txt" value="12" />
-          <entry key="xml" value="608" />
+          <entry key="xml" value="611" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1509" />
+          <entry key="JAVA" value="1515" />
           <entry key="PLAIN_TEXT" value="29" />
           <entry key="Properties" value="340" />
           <entry key="SQL" value="76" />
-          <entry key="XML" value="545" />
+          <entry key="XML" value="548" />
         </counts>
       </usages-collector>
     </session>
@@ -133,38 +102,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/UserFeedbackController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="209">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#903#904#0" expanded="true" />
+                <element signature="e#955#956#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/TypeEnum.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="284">
+              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
               <folding>
                 <element signature="n#appender#0;n#configuration#0;n#!!top" />
                 <element signature="n#appender#2;n#configuration#0;n#!!top" />
@@ -204,8 +162,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="114">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
               <folding>
                 <element signature="n#properties#0;n#project#0;n#!!top" />
               </folding>
@@ -213,15 +171,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xzcai-study-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="42" column="43" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="43" />
+            <state relative-caret-position="126">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
               <folding>
                 <element signature="n#dependencies#0;n#project#0;n#!!top" />
-                <element signature="n#configuration#0;n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application-default.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -267,7 +242,6 @@
         <option value="$PROJECT_DIR$/xzcai-study-biz/src/main/java/com/xzcai/study/biz/service/UserFeedback.java" />
         <option value="$PROJECT_DIR$/xzcai-study-dal/src/main/resources/mapper/UserFeedback.xml" />
         <option value="$PROJECT_DIR$/xzcai-study-dal/src/main/java/com/xzcai/study/dal/UserFeedbackMapper.java" />
-        <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" />
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/config/DruidConfiguration.java" />
         <option value="$PROJECT_DIR$/xzcai-study-pojo/pom.xml" />
         <option value="$PROJECT_DIR$/xzcai-study-biz/src/main/java/com/xzcai/study/biz/service/UserFeedbackService.java" />
@@ -290,6 +264,7 @@
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/TypeEnum.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/xzcai-study-web/pom.xml" />
+        <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" />
       </list>
     </option>
   </component>
@@ -331,6 +306,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -343,11 +319,40 @@
               <item name="xzcai-study" type="462c0819:PsiDirectoryNode" />
               <item name="xzcai-study-web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xzcai-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xzcai-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xzcai-study-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xzcai-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xzcai-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xzcai-study-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xzcai-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xzcai-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xzcai-study-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xzcai-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xzcai-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xzcai-study-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -361,7 +366,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539574029209" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539588273334" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -448,17 +453,19 @@
       <workItem from="1538289835642" duration="10843000" />
       <workItem from="1538927956538" duration="3143000" />
       <workItem from="1539048745607" duration="15136000" />
-      <workItem from="1539568856103" duration="2564000" />
+      <workItem from="1539568856103" duration="6295000" />
+      <workItem from="1539587334780" duration="937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51133000" />
+    <option name="totallyTimeSpent" value="55801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25222313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25222313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -474,20 +481,20 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291815" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32740214" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.2580071" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.23487544" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2497979" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.14874697" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.14874697" />
       <window_info anchor="right" id="Database" order="6" weight="0.17461601" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -572,16 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,13 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application-default.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-pojo/src/main/java/com/xzcai/study/pojo/vo/TestRichVo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -744,23 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/UserFeedbackController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -782,29 +755,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="n#appender#0;n#configuration#0;n#!!top" />
-            <element signature="n#appender#2;n#configuration#0;n#!!top" />
-            <element signature="n#logger#0;n#configuration#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-dal/src/main/resources/mybatis/mybatis.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application-rd.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -817,21 +771,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="114">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
           <folding>
             <element signature="n#properties#0;n#project#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application-default.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application-rd.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding>
+            <element signature="n#appender#0;n#configuration#0;n#!!top" />
+            <element signature="n#appender#2;n#configuration#0;n#!!top" />
+            <element signature="n#logger#0;n#configuration#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/UserFeedbackController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="42" column="43" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="43" />
+        <state relative-caret-position="126">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
           <folding>
             <element signature="n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#configuration#0;n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
           </folding>
         </state>
       </provider>
