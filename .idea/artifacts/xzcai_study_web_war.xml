@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="xzcai-study-web:war">
     <output-path>$PROJECT_DIR$/xzcai-study-web/target</output-path>
-    <root id="archive" name="xzcai-study-web.war">
+    <root id="archive" name="xzcai-study-web-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="xzcai-study-web:war exploded" />
     </root>
   </artifact>

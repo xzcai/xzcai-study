@@ -8,7 +8,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <artifactId>xzcai-study-web</artifactId>
 
     <dependencies>
@@ -28,4 +28,35 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <mainClass>com.xzcai.study.XzcaiStudyMainApplication</mainClass>
+                    <finalName>${project.artifactId}</finalName>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <configuration>
+                    <warName>${project.artifactId}</warName>
+                    <packagingExcludes>
+                        WEB-INF/lib/tomcat-embed-*.jar,
+                        WEB-INF/lib/tomcat-annotations-*.jar
+                    </packagingExcludes>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

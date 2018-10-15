@@ -16,11 +16,11 @@
         <module>xzcai-study-common</module>
     </modules>
 
-    <!--<parent>-->
-        <!--<groupId>com.ywwl</groupId>-->
-        <!--<artifactId>ywwl-parent</artifactId>-->
-        <!--<version>1.0.0</version>-->
-    <!--</parent>-->
+    <parent>
+        <groupId>com.ywwl</groupId>
+        <artifactId>ywwl-parent</artifactId>
+        <version>1.0.0</version>
+    </parent>
 
     <properties>
         <java.version>1.8</java.version>

@@ -16,12 +16,12 @@
     <bytecodeTargetLevel>
       <module name="caixz-study-web" target="1.8" />
       <module name="demo" target="1.8" />
-      <module name="xzcai-study" target="1.5" />
-      <module name="xzcai-study-biz" target="1.5" />
-      <module name="xzcai-study-common" target="1.5" />
-      <module name="xzcai-study-dal" target="1.5" />
-      <module name="xzcai-study-pojo" target="1.5" />
-      <module name="xzcai-study-web" target="1.5" />
+      <module name="xzcai-study" target="1.8" />
+      <module name="xzcai-study-biz" target="1.8" />
+      <module name="xzcai-study-common" target="1.8" />
+      <module name="xzcai-study-dal" target="1.8" />
+      <module name="xzcai-study-pojo" target="1.8" />
+      <module name="xzcai-study-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
