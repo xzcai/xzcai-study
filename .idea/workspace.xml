@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7b790a2-1c64-459f-af2d-7288b87e4ec9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -113,13 +108,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="76">
+              <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#502#503#0" expanded="true" />
                 <element signature="e#577#578#0" expanded="true" />
               </folding>
@@ -159,11 +153,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+            <state relative-caret-position="171">
+              <caret line="18" selection-start-line="18" selection-end-line="22" selection-end-column="17" />
               <folding>
                 <element signature="n#properties#0;n#project#0;n#!!top" />
               </folding>
@@ -262,9 +256,9 @@
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/Test.java" />
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/TypeEnum.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/xzcai-study-web/pom.xml" />
         <option value="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -366,7 +360,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539588273334" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539588408879" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -454,12 +448,12 @@
       <workItem from="1538927956538" duration="3143000" />
       <workItem from="1539048745607" duration="15136000" />
       <workItem from="1539568856103" duration="6295000" />
-      <workItem from="1539587334780" duration="937000" />
+      <workItem from="1539587334780" duration="1072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55801000" />
+    <option name="totallyTimeSpent" value="55936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -769,16 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding>
-            <element signature="n#properties#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -836,12 +820,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="76">
+          <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#502#503#0" expanded="true" />
             <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" selection-start-line="18" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="n#properties#0;n#project#0;n#!!top" />
           </folding>
         </state>
       </provider>
