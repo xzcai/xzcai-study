@@ -2,76 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7b790a2-1c64-459f-af2d-7288b87e4ec9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/xzcai-study-biz/src/main/resources/spring/xzcai-study-biz.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-biz/src/test/java/com/xzcai/study/biz/service/impl/UserFeedbackServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-common/src/main/java/com/xzcai/study/common/dateVali/DateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-common/src/main/java/com/xzcai/study/common/dateVali/DateTimeValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-pojo/src/main/java/com/xzcai/study/pojo/vo/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/mybatis/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/mybatis/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/mybatis/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/test/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/test/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/test/MainHuaDongTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/test/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/test/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/resources/mybatis-test/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xzcai_study_web_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_12.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logPath_IS_UNDEFINED/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/logPath_IS_UNDEFINED/main.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/src/main/java/com/xzcai/study/biz/service/impl/UserFeedbackServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/src/main/java/com/xzcai/study/biz/service/impl/UserFeedbackServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/classes/com/xzcai/study/biz/service/impl/UserFeedbackServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/target/classes/com/xzcai/study/biz/service/impl/UserFeedbackServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/target/xzcai-study-biz-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-biz/xzcai-study-biz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-biz/xzcai-study-biz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/target/xzcai-study-common-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-common/xzcai-study-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-common/xzcai-study-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/target/xzcai-study-dal-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-dal/xzcai-study-dal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-dal/xzcai-study-dal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/target/xzcai-study-pojo-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-pojo/xzcai-study-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-pojo/xzcai-study-pojo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/XzcaiStudyMainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/UserFeedbackController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/controller/UserFeedbackController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/rocketmq/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/rocketmq/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/rocketmq/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/rocketmq/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/test/AtomicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/test/AtomicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/resources/application-rd.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/resources/application-rd.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/application-rd.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/application-rd.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/XzcaiStudyMainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/XzcaiStudyMainApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/UserFeedbackController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/target/classes/com/xzcai/study/controller/UserFeedbackController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/l/opt/logs/xzcai/controller/controller.2018-10-12_18.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/logPath_IS_UNDEFINED/controller/controller.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/logPath_IS_UNDEFINED/main.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/logPath_IS_UNDEFINED/sql/sql.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/xzcai-study-web-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/target/xzcai-study-web.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xzcai-study-web/xzcai-study-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xzcai-study-web/xzcai-study-web.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -189,8 +120,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/rocketmq/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="42" column="62" lean-forward="true" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+            <state relative-caret-position="240">
+              <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -562,7 +493,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545188463966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545188633498" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -761,7 +692,7 @@
       <workItem from="1544677711305" duration="590000" />
       <workItem from="1544770871474" duration="9317000" />
       <workItem from="1545017845415" duration="3628000" />
-      <workItem from="1545034881277" duration="25134000" />
+      <workItem from="1545034881277" duration="25256000" />
     </task>
     <task id="LOCAL-00001" summary="sdf">
       <created>1541411359960</created>
@@ -770,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541411359960</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sdf">
+      <created>1545188547098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545188547098</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -800,7 +738,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219221000" />
+    <option name="totallyTimeSpent" value="219343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -815,7 +753,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33306387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1483,8 +1421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xzcai-study-web/src/main/java/com/xzcai/study/rocketmq/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="42" column="62" lean-forward="true" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+        <state relative-caret-position="240">
+          <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
