@@ -1,10 +1,13 @@
 package com.xzcai.study.controller;
 
 import com.xzcai.study.biz.service.UserFeedbackService;
+import com.xzcai.study.pojo.vo.PersonTest;
 import com.xzcai.study.pojo.vo.UserFeedbackSaveVO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.validation.BindingResult;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 
@@ -36,5 +39,15 @@ public class UserFeedbackController {
     public String get(){
         logger.info("test");
         return "tets";
+    }
+
+    @PostMapping("/testVali")
+    public String testVali(@Validated @RequestBody PersonTest user, BindingResult br){
+//        if (br.hasErrors()) {
+//            return br.getFieldError().getDefaultMessage();
+//        } else {
+//            return "chengg";
+//        }
+        return "sdfasdf";
     }
 }

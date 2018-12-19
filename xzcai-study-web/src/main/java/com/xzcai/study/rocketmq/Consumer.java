@@ -1,21 +1,21 @@
 package com.xzcai.study.rocketmq;
 
-import com.alibaba.rocketmq.client.consumer.DefaultMQPushConsumer;
-import com.alibaba.rocketmq.client.consumer.listener.ConsumeConcurrentlyContext;
-import com.alibaba.rocketmq.client.consumer.listener.ConsumeConcurrentlyStatus;
-import com.alibaba.rocketmq.client.consumer.listener.MessageListenerConcurrently;
-import com.alibaba.rocketmq.client.exception.MQBrokerException;
-import com.alibaba.rocketmq.client.exception.MQClientException;
-import com.alibaba.rocketmq.client.producer.DefaultMQProducer;
-import com.alibaba.rocketmq.client.producer.SendResult;
-import com.alibaba.rocketmq.common.consumer.ConsumeFromWhere;
-import com.alibaba.rocketmq.common.message.Message;
-import com.alibaba.rocketmq.common.message.MessageExt;
-import com.alibaba.rocketmq.remoting.exception.RemotingException;
+
+import org.apache.rocketmq.client.consumer.DefaultMQPushConsumer;
+import org.apache.rocketmq.client.consumer.listener.ConsumeConcurrentlyContext;
+import org.apache.rocketmq.client.consumer.listener.ConsumeConcurrentlyStatus;
+import org.apache.rocketmq.client.consumer.listener.MessageListenerConcurrently;
+import org.apache.rocketmq.client.exception.MQBrokerException;
+import org.apache.rocketmq.client.exception.MQClientException;
+import org.apache.rocketmq.client.impl.consumer.ProcessQueue;
+import org.apache.rocketmq.common.consumer.ConsumeFromWhere;
+import org.apache.rocketmq.common.message.MessageExt;
+import org.apache.rocketmq.remoting.exception.RemotingException;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Date;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicLong;
 
 /**
  * @author: Mr.Wang
@@ -23,15 +23,23 @@ import java.util.List;
  **/
 public class Consumer {
     public static void main(String[] args) throws InterruptedException, RemotingException, MQClientException, MQBrokerException {
-        DefaultMQPushConsumer consumer=new DefaultMQPushConsumer("consumerGroup");
-        consumer.setNamesrvAddr("111.231.88.193:9876");
+        DefaultMQPushConsumer consumer = new DefaultMQPushConsumer("consumerGroup");
+        consumer.setNamesrvAddr("47.104.16.255:9876");
         consumer.setConsumeFromWhere(ConsumeFromWhere.CONSUME_FROM_FIRST_OFFSET);
-        consumer.subscribe("TopicTest","*");
+        consumer.subscribe("TopicTest", "*");
+//        consumer.ma
+
+
         consumer.registerMessageListener(new MessageListenerConcurrently() {
+            AtomicLong consumeTimes = new AtomicLong(0);
+            @Override
             public ConsumeConcurrentlyStatus consumeMessage(List<MessageExt> msgs, ConsumeConcurrentlyContext consumeConcurrentlyContext) {
-                for(MessageExt ext:msgs){
+                System.out.println(Thread.currentThread().getName() + " Receive New Messages: " + msgs + "%n");
+                this.consumeTimes.incrementAndGet();
+                for (MessageExt ext : msgs) {
                     try {
-                        System.out.println(new Date()+new String(ext.getBody(),"UTF-8"));
+                        System.out.println("什么鬼:" + new Date() + new String(ext.getBody(), "UTF-8"));
+                        System.out.println(this.consumeTimes.get());
                     } catch (UnsupportedEncodingException e) {
                         e.printStackTrace();
                     }

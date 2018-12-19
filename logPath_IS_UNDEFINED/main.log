@@ -1,0 +1,12 @@
+2018-12-17 18:45:50.119 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:10911] result: true
+2018-12-17 18:45:50.657 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:9876] result: true
+2018-12-17 18:45:50.659 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:10909] result: true
+2018-12-17 20:16:17.600 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:10911] result: true
+2018-12-17 20:16:17.625 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:10909] result: true
+2018-12-17 20:16:17.625 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:9876] result: true
+2018-12-17 20:51:53.492 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:10911] result: true
+2018-12-17 20:51:53.505 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:10909] result: true
+2018-12-17 20:51:53.510 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:9876] result: true
+2018-12-18 11:47:50.768 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:10911] result: true
+2018-12-18 11:47:50.783 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:9876] result: true
+2018-12-18 11:47:50.783 - INFO PID_IS_UNDEFINED [lientSelector_1] RocketmqRemoting                         : closeChannel: close the connection to remote address[47.104.16.255:10909] result: true

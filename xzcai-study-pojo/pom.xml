@@ -12,6 +12,10 @@
     <artifactId>xzcai-study-pojo</artifactId>
     <dependencies>
 
+        <dependency>
+            <groupId>com.xzcai</groupId>
+            <artifactId>xzcai-study-common</artifactId>
+        </dependency>
     </dependencies>
 
 

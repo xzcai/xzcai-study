@@ -27,15 +27,26 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>com.alibaba.rocketmq</groupId>
+            <groupId>org.apache.rocketmq</groupId>
             <artifactId>rocketmq-client</artifactId>
-            <version>3.2.6</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.39</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.github.rholder</groupId>
+            <artifactId>guava-retrying</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+        </dependency>
+
+
     </dependencies>
 
     <build>
