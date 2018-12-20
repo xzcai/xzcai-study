@@ -19,16 +19,11 @@ import java.util.regex.Pattern;
 public class Producer {
     static Pattern NUMBER_PATTERN = Pattern.compile("[0-9]+");
     public static void main(String[] args) throws InterruptedException, RemotingException, MQClientException, MQBrokerException {
-        List<String> list = null;
-        list.stream().forEach(e-> System.out.println(e));
-        Matcher matcher = NUMBER_PATTERN.matcher(null);
-        System.out.println(matcher.matches());
-
         DefaultMQProducer producer=new DefaultMQProducer("producerGroup");
-        producer.setNamesrvAddr("111.231.88.193:9876");
+        producer.setNamesrvAddr("47.104.16.255:9876");
         producer.start();
-        for(int i=0;i<100;i++){
-            Message msg=new Message("TopicTest","TagA",("Hello RocketMQ " + i).getBytes());
+        for(int i=0;i<1;i++){
+            Message msg=new Message("TopicTest","TagA",("Hello RocketMQ qw12 " + i).getBytes());
             SendResult sendResult = producer.send(msg);
             System.out.println(sendResult);
         }
